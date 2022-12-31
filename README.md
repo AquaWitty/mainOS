@@ -7,3 +7,5 @@
   <li>2. gcc -m32 -c sys/kernel/header.c -o build/krnl.o</li>
   <li>3. ld -m elf_i386 -T link.ld -o kernel build/boot.o build/krnl.o </li>
 </ul>
+
+## It's recommended to study
